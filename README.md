@@ -1,0 +1,2 @@
+# 2014-mapping-party.ai
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/codeforasahikawa/2014-mapping-party.ai?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
